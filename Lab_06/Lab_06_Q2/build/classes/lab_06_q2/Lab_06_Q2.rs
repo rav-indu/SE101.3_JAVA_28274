@@ -1,0 +1,1 @@
+lab_06_q2.SpeakerDetails
